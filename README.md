@@ -1,4 +1,4 @@
-# Your Very Own Portfolio 
+# My Portfolio 
 
 In the portfolio you can find information about me and my background, and my contact details.
 
