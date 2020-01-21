@@ -4,7 +4,7 @@ In the portfolio you can find information about me and my background, and my con
 
 In this project I've used my HTML and CSS skills.
 
-## Elements included 
+# Includes 
 
 - The page should be built with HTML and CSS
 - Flexbox for layout
